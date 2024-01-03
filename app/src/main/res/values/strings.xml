@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FPlaundry</string>
+    <string name="layanan_servis">layanan servis</string>
+    <string name="informasi_layanan">Informasi Layanan</string>
+    <string name="selamat_datang_di_cleanease_laundry_online_solusi_modern_untuk_semua_kebutuhan_laundry_anda_cleanease_hadir_untuk_memudahkan_hidup_anda_dengan_layanan_cuci_kilat_hemat_waktu_dan_terpercaya_memberikan_anda_pengalaman_laundry_yang_tak_tertandingi_cleanease_laundry_online_hadir_untuk_menyederhanakan_rutinitas_laundry_anda_percayakan_kepada_kami_dan_nikmati_waktu_luang_lebih_banyak_tanpa_perlu_khawatir_tentang_cucian_anda_bersih_cepat_dan_efisien">Selamat datang di CleanEase Laundry Online, solusi modern untuk semua kebutuhan laundry Anda. CleanEase hadir untuk memudahkan hidup Anda dengan layanan cuci kilat, hemat waktu, dan terpercaya, memberikan Anda pengalaman laundry yang tak tertandingi. CleanEase Laundry Online hadir untuk menyederhanakan rutinitas laundry Anda. Percayakan kepada kami, dan nikmati waktu luang lebih banyak tanpa perlu khawatir tentang cucian Anda. Bersih, cepat, dan efisien.</string>
+    <string name="next">Next</string>
+    <string name="rp_1_500">Rp1.500,00</string>
+    <string name="jaket">Jaket</string>
+    <string name="jeans">Jeans</string>
+    <string name="rp_50_000">Rp50.000,00</string>
+    <string name="cuci_setrika_merupakan_layanan_laundry_yang_mencakup_pencucian_dan_penyetrikaan_pakaian">Cuci setrika merupakan layanan laundry yang mencakup pencucian dan penyetrikaan pakaian.</string>
+    <string name="form_pesanan">Form Pesanan</string>
+    <string name="pastikan_anda_mengisi_data_pesanan_dengan_benar">Pastikan Anda mengisi data pesanan dengan benar!</string>
+    <string name="nama">Nama</string>
+    <string name="no_hp">No.HP</string>
+    <string name="alamat">Alamat</string>
+    <string name="jam_penjemputan">Jam Penjemputan</string>
+    <string name="jenis_layanan_laundry">Jenis Layanan Laundry</string>
+    <string name="catatan">Catatan</string>
+    <string name="simpan">Simpan</string>
+</resources>

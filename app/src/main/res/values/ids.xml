@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvPriceKaos" type="id" />
+    <item name="tvTitle" type="id" />
+    <item name="tvInfo" type="id" />
+    <item name="tvJumlahBarang" type="id" />
+    <item name="tvTotalPrice" type="id" />
+    <item name="tvKaos" type="id" />
+    <item name="tvCelana" type="id" />
+    <item name="tvJaket" type="id" />
+    <item name="tvSprei" type="id" />
+    <item name="tvKarpet" type="id" />
+    <item name="tvPriceCelana" type="id" />
+    <item name="tvPriceJaket" type="id" />
+    <item name="tvPriceSprei" type="id" />
+    <item name="tvPriceKarpet" type="id" />
+    <item name="imageAdd1" type="id" />
+    <item name="imageAdd2" type="id" />
+    <item name="imageAdd3" type="id" />
+    <item name="imageAdd4" type="id" />
+    <item name="imageAdd5" type="id" />
+    <item name="imageMinus1" type="id" />
+    <item name="imageMinus2" type="id" />
+    <item name="imageMinus3" type="id" />
+    <item name="imageMinus4" type="id" />
+    <item name="imageMinus5" type="id" />
+    <item name="btnCheckout" type="id" />
+</resources>
